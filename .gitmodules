@@ -1,6 +1,6 @@
 [submodule "module-1"]
 	path = module-1
-	url = git@github.commdya94812:mdya94812/module-1.git
+	url = https://github.com/mdya94812/module-1
 [submodule "module-2"]
 	path = module-2
 	url = git@github.commdya94812:mdya94812/module-2.git
